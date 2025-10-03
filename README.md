@@ -85,3 +85,38 @@ The following is a sample of the model's predictions on 20 unseen test images.
 - Matplotlib (for visualization)
 - joblib (for saving/loading the model)
 - tqdm (for progress bars)
+
+### Dataset Used
+- https://www.kaggle.com/c/dogs-vs-cats/data
+
+### Important Note:
+The dataset used in this project is too large and that's why not added in the repository.
+Please download the dataset from the above link in order to run the code perfectly.
+
+
+---
+
+### Pre-trained Model
+
+**Important:** The trained SVM model (`svm_cat_dog_classifier_20k.joblib`) is too large to be hosted on GitHub. You can download it from the link below.
+
+- https://drive.google.com/file/d/1ilLaBWprKYVty5aV4_mZjFDSwrMw7k9T/view?usp=sharing
+
+**Instructions:**
+1.  Download the file from the link above.
+2.  Place the `svm_cat_dog_classifier_20k.joblib` file in the main directory of this project.
+3.  You can now run the `trained_model_loading_and_testing.ipynb` notebook to see the predictions.
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
